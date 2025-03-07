@@ -72,5 +72,5 @@ The chatbot recognizes the following intents:
 This project is open-source and available under the MIT License.
 
 ## Author
-Developed by BADDAM RAJESHWAR REDDY
+Developed by Bramhaiah
 
